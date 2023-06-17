@@ -1,0 +1,163 @@
+
+[
+  {
+    "id": 1,
+    "img": "public/tropical/222.webp",
+    "place": "Valencia Spain",
+    "meter": "Stay wth Sagrario Coach",
+    "date": "23-28 Jun",
+    "price": "₹7,332 night"
+  },
+  {
+    "id": 2,
+    "img": "public/tropical/223.webp"  ,
+    "place": "Torino,Italy",
+    "meter": "Stay with Carmela Hosting for 7 years",
+    "date": "₹8,198 night",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 3,
+    "img":"public/tropical/224.webp",
+    "place": "Nantes,France",
+    "meter": "Stay with Golwen Business owner",
+    "date": "₹",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 4,
+    "img":"public/tropical/225.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 5,
+    "img":"public/tropical/226.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 6,
+    "img":"public/tropical/227.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 7,
+    "img":"public/tropical/228.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 8,
+    "img":"public/tropical/229.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 9,
+    "img":"public/tropical/230.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 10,
+    "img": "public/tropical/231.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 11,
+    "img": "public/tropical/232.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 12,
+    "img": "public/tropical/233.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 13,
+    "img": "public/tropical/234.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 14,
+    "img": "public/tropical/235.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 15,
+    "img": "public/tropical/236.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 16,
+    "img": "public/tropical/237.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 17,
+    "img": "public/tropical/238.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 18,
+    "img": "public/tropical/239.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 19,
+    "img": "public/tropical/240.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 20,
+    "img": "public/tropical/241.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  }
+]

@@ -1,0 +1,163 @@
+
+[
+  {
+    "id": 1,
+    "img": "public/laake/161.webp",
+    "place": "Valencia Spain",
+    "meter": "Stay wth Sagrario Coach",
+    "date": "163-168 Jun",
+    "price": "₹7,3316 night"
+  },
+  {
+    "id": 16,
+    "img": "public/laake/162.webp"  ,
+    "place": "Torino,Italy",
+    "meter": "Stay with Carmela Hosting for 7 years",
+    "date": "₹8,198 night",
+    "price": "₹160,161616 night"
+  },
+  {
+    "id": 3,
+    "img":"public/laake/163.webp",
+    "place": "Nantes,France",
+    "meter": "Stay with Golwen Business owner",
+    "date": "₹",
+    "price": "₹160,161616 night"
+  },
+  {
+    "id": 4,
+    "img":"public/laake/164.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-1616 Nov",
+    "price": "₹160,161616 night"
+  },
+  {
+    "id": 5,
+    "img":"public/laake/165.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-1616 Nov",
+    "price": "₹160,161616 night"
+  },
+  {
+    "id": 6,
+    "img":"public/laake/166.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-1616 Nov",
+    "price": "₹160,161616 night"
+  },
+  {
+    "id": 7,
+    "img":"public/laake/167.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-1616 Nov",
+    "price": "₹160,161616 night"
+  },
+  {
+    "id": 8,
+    "img":"public/laake/163.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-1616 Nov",
+    "price": "₹160,161616 night"
+  },
+  {
+    "id": 9,
+    "img":"public/laake/169.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-1616 Nov",
+    "price": "₹160,161616 night"
+  },
+  {
+    "id": 10,
+    "img": "public/laake/170.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-1616 Nov",
+    "price": "₹160,161616 night"
+  },
+  {
+    "id": 11,
+    "img": "public/laake/171.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-1616 Nov",
+    "price": "₹160,161616 night"
+  },
+  {
+    "id": 116,
+    "img": "public/laake/172.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-1616 Nov",
+    "price": "₹160,161616 night"
+  },
+  {
+    "id": 13,
+    "img": "public/laake/173.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-1616 Nov",
+    "price": "₹160,161616 night"
+  },
+  {
+    "id": 14,
+    "img": "public/laake/174.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-1616 Nov",
+    "price": "₹160,161616 night"
+  },
+  {
+    "id": 15,
+    "img": "public/laake/175.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-1616 Nov",
+    "price": "₹160,161616 night"
+  },
+  {
+    "id": 16,
+    "img": "public/laake/176.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-1616 Nov",
+    "price": "₹160,161616 night"
+  },
+  {
+    "id": 17,
+    "img": "public/laake/177.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-1616 Nov",
+    "price": "₹160,161616 night"
+  },
+  {
+    "id": 18,
+    "img": "public/laake/178.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-1616 Nov",
+    "price": "₹160,161616 night"
+  },
+  {
+    "id": 19,
+    "img": "public/laake/179.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-1616 Nov",
+    "price": "₹160,161616 night"
+  },
+  {
+    "id": 160,
+    "img": "public/laake/180.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-1616 Nov",
+    "price": "₹160,161616 night"
+  }
+]

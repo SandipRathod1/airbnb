@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "img": "public/farmer/121.webp",
+    "place": "Valencia Spain",
+    "meter": "Stay wth Sagrario Coach",
+    "date": "23-28 Jun",
+    "price": "₹7,332 night"
+  },
+  {
+    "id": 2,
+    "img": "public/farmer/122.webp",
+    "place": "Torino,Italy",
+    "meter": "Stay with Carmela Hosting for 7 years",
+    "date": "₹8,198 night",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 3,
+    "img": "public/farmer/123.webp",
+    "place": "Nantes,France",
+    "meter": "Stay with Golwen Business owner",
+    "date": "₹",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 4,
+    "img": "public/farmer/124.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 5,
+    "img": "public/farmer/125.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 6,
+    "img": "public/farmer/126.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 7,
+    "img": "public/farmer/127.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 8,
+    "img": "public/farmer/128.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 9,
+    "img": "public/farmer/129.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 10,
+    "img": "public/farmer/130.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 11,
+    "img": "public/farmer/131.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 12,
+    "img": "public/farmer/132.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 13,
+    "img": "public/farmer/133.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 14,
+    "img": "public/farmer/134.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 15,
+    "img": "public/farmer/135.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 16,
+    "img": "public/farmer/136.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 17,
+    "img": "public/farmer/137.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 18,
+    "img": "public/farmer/138.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 19,
+    "img": "public/farmer/139.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  },
+  {
+    "id": 20,
+    "img": "public/farmer/140.webp",
+    "place": "Drimnin, UK",
+    "meter": "8,568 kilometers away",
+    "date": "16-22 Nov",
+    "price": "₹20,222 night"
+  }
+]
